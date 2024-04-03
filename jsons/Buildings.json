@@ -458,8 +458,8 @@
 		"uniqueTo": "Songhai",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"faith": 2,
-		"uniques": ["[Gold] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
+		"faith": 5,
+		"uniques": ["[Gold] cost of purchasing items in cities [-10]%", "Destroyed when the city is captured"]
 		"requiredTech": "Philosophy"
 	},
 	{
